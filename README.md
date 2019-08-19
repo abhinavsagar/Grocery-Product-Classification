@@ -18,11 +18,23 @@ The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the data
 6. Scikit-learn
 7. Keras
 
+## Installation
+
+`pip instsall numpy pandas scikit-image matplotlib scikit-learn keras`
+
+`jupyter notebook`
+
 ## Results
+
+### Loss/Accuracy vs Epoch
 
 ![loss/accuracy](results.png)
 
+### ROC-AUC curve
+
 ![roc-auc](grocery2.png)
+
+### Correct/Incorrect classification samples
 
 ![results](grocery3.png)
 
