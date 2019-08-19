@@ -20,7 +20,7 @@ The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the data
 
 ## Installation
 
-`pip instsall numpy pandas scikit-image matplotlib scikit-learn keras`
+`pip install numpy pandas scikit-image matplotlib scikit-learn keras`
 
 `jupyter notebook`
 
