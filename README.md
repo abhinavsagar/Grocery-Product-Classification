@@ -2,7 +2,8 @@
 
 The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food classes. I have used Transfer Learning using pre trained 
 VGG weights to make a model for multi class image classification. It can be of great use in automatic image
-classification as and when required in retail stores.
+classification to help a food and groceries retailer reduce human effort in the inventory management process of its warehouse and retail 
+outlets.
 
 The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the dataset [here](http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset). The full dataset is provided in this repository for convenience.
 
