@@ -1,6 +1,8 @@
 # Multi class image classification using Freiburg Groceries Dataset
 
-The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food classes.
+The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food classes. I have used Transfer Learning using pre trained 
+VGG weights to make a model for multi class image classification for grocery items. It can be of great use in automatic image
+classification as and when required in retail stores.
 
 ![sample](grocery.png)
 
@@ -16,23 +18,12 @@ The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the data
 6. Scikit-learn
 7. Keras
 
-## Network Architecture
+## Results
 
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-vgg16 (Model)                (None, 4, 4, 512)         14714688  
-_________________________________________________________________
-global_average_pooling2d_1 ( (None, 512)               0         
-_________________________________________________________________
-dropout_1 (Dropout)          (None, 512)               0         
-_________________________________________________________________
-dense_1 (Dense)              (None, 25)                12825     
-=================================================================
-Total params: 14,727,513
-Trainable params: 12,825
-Non-trainable params: 14,714,688
-_________________________________________________________________
+![results](results.png)
+
+The model is able to reach an accuracy of 60% which is quite good considering the number of classes(25) with 100-200 images in each 
+category.
 
 ## Citing
 
