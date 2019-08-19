@@ -4,7 +4,7 @@ The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food cl
 VGG weights to make a model for multi class image classification. It can be of great use in automatic image
 classification as and when required in retail stores.
 
-The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the dataset [here](http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset). The full dataset is provided in this repository.
+The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the dataset [here](http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset). The full dataset is provided in this repository for convenience.
 
 ![sample](grocery.png)
 
@@ -20,7 +20,11 @@ The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the data
 
 ## Results
 
-![results](results.png)
+![loss/accuracy](results.png)
+
+![roc-auc](grocery2.png)
+
+![results](grocery3.png)
 
 The model is able to reach an accuracy of 60% which is quite good considering the number of classes(25) with 100-200 images in each 
 category.
