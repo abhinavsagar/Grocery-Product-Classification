@@ -38,8 +38,7 @@ The paper can be found [here](https://arxiv.org/pdf/1611.05799.pdf) and the data
 
 ![results](grocery3.png)
 
-The model is able to reach an accuracy of 60% which is quite good considering the number of classes(25) with 100-200 images in each 
-category.
+The model is able to reach a validation accuracy of 60% which is quite good considering the number of classes(25) with 100-200 images in each category. Feel free to use different architectures and play with the hyperparameters for better results.
 
 ## Citing
 
