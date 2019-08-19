@@ -30,14 +30,13 @@ category.
 ```
 @misc{Abhinav:2019,
   Author = {Abhinav Sagar},
-  Title = {ICC 2019 WC Prediction},
+  Title = {Grocery Image Classification},
   Year = {2019},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/ICC-2019-WC-prediction}}
+  Howpublished = {\url{https://github.com/abhinavsagar/Grocery-Image-Classification}}
 }
 ```
-
 
 
 
