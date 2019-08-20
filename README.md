@@ -1,5 +1,7 @@
 # Multi class image classification using Freiburg Groceries Dataset
 
+Check out the corresponding medium blog post [Multi Class Object Classification for Retail Products](https://medium.com/@abhinav.sagar/multi-class-object-classification-for-retail-products-aa4ecaaaa096).
+
 The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food classes. I have used Transfer Learning using pre trained 
 VGG weights to make a model for multi class image classification. It can be of great use in automatic image
 classification to help a food and groceries retailer reduce human effort in the inventory management process of its warehouse and retail 
