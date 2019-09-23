@@ -1,4 +1,4 @@
-# Multi class image classification using Freiburg Groceries Dataset
+# Multi class object classification using Freiburg Groceries Dataset
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096](https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096).
 
