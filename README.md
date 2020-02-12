@@ -1,5 +1,7 @@
 # Multi class object classification using Freiburg Groceries Dataset
 
+Unofficial code for paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels"
+
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096](https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096).
