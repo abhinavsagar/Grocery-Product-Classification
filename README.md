@@ -1,8 +1,6 @@
 # Multi class object classification using Freiburg Groceries Dataset
 Implementation of the paper "A Hierarchical Grocery Store Image Dataset with Visual and Semantic Labels"
 
-## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
-
 Check out the corresponding medium blog post [https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096](https://towardsdatascience.com/multi-class-object-classification-for-retail-products-aa4ecaaaa096).
 
 The Freiburg Groceries Dataset consists of 5000 256x256 RGB images of 25 food classes. I have used Transfer Learning using pre trained 
