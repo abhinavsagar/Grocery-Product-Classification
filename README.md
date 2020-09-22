@@ -46,26 +46,16 @@ The model is able to reach a validation accuracy of 60% which is quite good cons
 
 ## Citing
 
+If you find this code useful in your research, please consider citing the blog:
+
 ```
-@misc{Abhinav:2019,
+@misc{sagarmulti,
   Author = {Abhinav Sagar},
-  Title = {Grocery Image Classification},
+  Title = {Multi Class Object Classification for Retail Products},
   Year = {2019},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/Grocery-Image-Classification}}
+  Journal = {Towards Data Science},
 }
 ```
-
-## Contacts
-
-If you want to keep updated with my latest articles and projects follow me on Medium. These are some of my contacts details:
-
-1. [Personal Website](https://abhinavsagar.github.io/)
-2. [Linkedin](https://in.linkedin.com/in/abhinavsagar4)
-3. [Medium](https://medium.com/@abhinav.sagar)
-4. [GitHub](https://github.com/abhinavsagar)
-5. [Kaggle](https://www.kaggle.com/abhinavsagar)
 
 ## License
 
